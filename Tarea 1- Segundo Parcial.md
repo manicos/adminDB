@@ -1,4 +1,4 @@
-#Tarea 1 - Segundo Parcial
+#Tarea 1 - Segundo Parcial Jueves 5 de Nov
 
 ### Entrega de SQL y documento de evidencia ###
 

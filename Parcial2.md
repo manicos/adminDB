@@ -1,6 +1,6 @@
 #Segundo Parcial
 
-### Entrega de documento técnico ###
+### Entrega de documento técnico, Proceso de respaldo de información ###
 
 Deberá contar con los siguientes apartados
 
@@ -9,22 +9,23 @@ Deberá contar con los siguientes apartados
 	2 Alance: Que abarca o a que aplica.
 
 	3 Proceso:
-		- Evidencia del proceso de respaldo DUMP:
-			- Comando
-			- Ejecución de comando
-			- Creación de respaldo
-			- Importación de respaldo.
-		- Evidencia del proceso de respaldo binario completo:
-			- Comando
-			- Ejecución de comando
-			- Creación de respaldo
-		- Evidencia del proceso de respaldo binario incremental:
-			- Comando
-			- Ejecución de comando
-			- Creación de respaldo
-		- Evidencia de imporación de respaldo total ante una contigencia.
+		- Respaldo DUMP:
+				- Comando
+				- Ejecución de comando
+				- Evidencia de  Creación de respaldo
+				- Evidencia de Importación de respaldo.
+		- Respaldos binarios:
+			- respaldo binario completo:
+				- Comando
+				- Ejecución de comando
+				- Evidencia de Creación de respaldo
+			- respaldo binario incremental:
+				- Comando
+				- Ejecución de comando
+				- Evidencia de Creación de respaldo
+			- Proceso de imporación de respaldo total ante una contigencia con evidencia
 
-	5 Conclusiones
+	4 Conclusiones
 
 * IMPORTANTE
-Se deberá entregar este documento en formato PDF con el nombre Parcial2.pdf y realizar un commit a su repositorio AdminDB.
+Se deberá entregar este documento el día 10 de Noviembre en formato PDF con el nombre Parcial2.pdf y realizar un commit a su repositorio AdminDB.
