@@ -1,13 +1,11 @@
 
 ### 1era Tarea - 3 Parcial ###
 
-Acceder al URL: aws.amazon.com y dar click en Sign in To console y selecionar Root user
-
-	Las credenciales de acceso son:
+Acceder a la URL: aws.amazon.com y dar click en Sign in To console y selecionar Root user, las credenciales de acceso son:
 	usuario: manicos@gmail.com
 	Contraseña: Azsxdc23..
 
-Realizar los siguientes pasos y entregar en su repositorio personal la evidencia en un archivo llamada 1 Tarea - 3 Parcial.pdf
+Realizar los siguientes pasos y entregar en su repositorio personal la evidencia en un archivo llamado "1 Tarea - 3 Parcial.pdf"
 
 1.- Acceder a la consola LightSail.
 2.- Creación de una instancia LightSail de Os only con ubuntu.
@@ -17,4 +15,4 @@ Realizar los siguientes pasos y entregar en su repositorio personal la evidencia
 6.- Levantamiento de contenedor.
 7.- Creación de reglas de firewall para acceso temporal.
 8.- Creación o importación de tablas y datos en base de datos.
-9.- Bloque de acceso al exterior por medio del firewall.
+9.- Bloqueo de acceso al exterior por medio del firewall.
