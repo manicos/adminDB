@@ -24,21 +24,31 @@
 ## PROCESO 2 ##
     Paso 1: Generar un repositorio Git en la nube privado
     Paso 2: Generar SSH Key en instancia
-    Paso 3: Copar contenido de llave pública
+    Paso 3: Copiar contenido de llave pública
     Paso 4: Agregar llave en repositorio GIT en la nube
-    Paso 5: Clonar repositorio
-    Paso 6: Crear archivo uploadgit.sh
-    Paso 7: Adicionar tarea al crontab -e
-    Paso 8: Revisar que se encuentren los respaldos en el repositorio Git en la nube
+    Paso 5: Clonar repositorio en instancia de la nube
+    Paso 6: Modificar ruta de respaldos en instancia de la nube
+    Paso 7: Crear archivo uploadgit.sh
+    Paso 8: Otorgar permisos de ejecución al archivo uploadgit.sh
+    Paso 9: Ejecutar el archivo uploadgit.sh para verificar su correcto funcionamiento.
+    Paso 10: Adicionar tarea al crontab -e
+    Paso 11: Revisar que se encuentren los respaldos en el repositorio Git en la nube
 
 ### CONTENIDO ARCHIVO uploadgit.sh
     cd /home/dbbackup
     git add .
     git commit -m 'Dialy backup'
-    git push origin master    
+    git push origin master
 
     Donde:
     Accedemos a la carpeta del repositorio local
     Hacemos un Stage o Add para indicar que todos los nuevos archivos serán cargados en el repositorio de la nube
     Hacemos un commit 
     Se cargan los nuevos respaldos en la nube
+
+## Comandos a usar
+    - ssh-keygen -t rsa
+    - chmod +x
+    - vi
+
+### 
