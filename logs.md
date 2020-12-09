@@ -7,3 +7,7 @@
 
 ### COMANDO PARA Logs binarios ###
 docker exec nombre_base_datos mysqlbinlog /var/log/mysql/mysql-bin.000001 > mysq.txt
+
+### Enlaces de interés ###
+https://mariadb.com/kb/en/overview-of-mariadb-logs/
+https://mariadb.com/kb/en/using-mysqlbinlog/
